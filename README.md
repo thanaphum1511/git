@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
 # Learn
-=======
-# Project Title
->>>>>>> 46bac69c8dc67d95d5da95e337db4080ba442d06
 
 A brief description of what this project does and who it's for
 
